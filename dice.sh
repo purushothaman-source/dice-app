@@ -5,6 +5,8 @@ case $random in
            ;;
           2)echo "second face "
            ;;
+           3)echo "third face "
+           ;;
 
          *)echo "not amoung 1 to 6"
           ;;
